@@ -1,0 +1,49 @@
+{
+  // 🔎 Zoom geral da interface
+  "window.zoomLevel": 0,
+
+  // 🔤 Tamanho da fonte do editor
+  "editor.fontSize": 18,
+
+  // 📏 Espaçamento entre linhas (melhora leitura)
+  "editor.lineHeight": 28,
+
+  // 🔡 Fonte mais legível (se tiver instalada)
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+
+  // 🔍 Cursor mais visível
+  "editor.cursorWidth": 3,
+  "editor.cursorBlinking": "smooth",
+
+  // 🧭 Minimapa (desliga pra limpar a tela)
+  "editor.minimap.enabled": false,
+
+  // 📦 Barra lateral maior
+  "workbench.tree.indent": 16,
+
+  // 🧩 Ícones mais visíveis
+  "workbench.iconTheme": "vs-seti",
+
+  // 🌙 Tema confortável (modo escuro)
+  "workbench.colorTheme": "Default Dark+",
+
+  // 🔎 Zoom no terminal
+  "terminal.integrated.fontSize": 16,
+
+  // 📄 Quebra de linha automática
+  "editor.wordWrap": "on",
+
+  // 🧠 Sugestões mais claras
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+
+  // 🧹 Menos poluição visual
+  "breadcrumbs.enabled": false,
+
+  // 📏 Espaço nas linhas
+  "editor.padding.top": 10,
+  "editor.padding.bottom": 10
+}
